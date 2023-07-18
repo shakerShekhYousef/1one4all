@@ -1,0 +1,24 @@
+{
+  "name": "last-onetoone",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.24.0",
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
+    "http": "0.0.1-security",
+    "moment": "^2.29.1",
+    "mysql": "^2.18.1",
+    "node-emoji": "^1.10.0",
+    "request": "^2.88.2",
+    "socket.io": "^2.3.0",
+    "socket.io-file": "^2.0.31"
+  },
+  "devDependencies": {},
+  "description": ""
+}
